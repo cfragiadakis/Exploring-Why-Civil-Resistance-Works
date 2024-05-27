@@ -7,8 +7,8 @@ We utilize `matplotlib` to visualize the findings of the exploratory data analys
 
 - Visualizing the frequency of nonviolent and violent campaigns per decade
 - Highlighting the success rates of nonviolent campaigns across different decades.
-- Comparing the success probabilities of violent and nonviolent campaigns over time.
-- Plotting the major resistance campaigns with at least 2.0% population participation, highlighting their final outcomes (successful or not).
+- Comparing the success rates of violent and nonviolent campaigns over time.
+- Displaying the major resistance campaigns with at least 2.0% population participation, highlighting their final outcomes (successful or not).
 
 Additionally, we implement statistical analysis using the `statsmodels` library to examine the effects of multiple factors—such as population, participation, membership per capita, and regime type—on the probability of success. For each variable, we create a scatter plot to identify potential correlations with the probability of success.
 
